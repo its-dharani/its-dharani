@@ -7,7 +7,6 @@
 -  **Web Development** — HTML, CSS, JavaScript
 -  **UI & Visual Design** — Figma, Inkscape
 -  **Python** — logic, basics, and real practice
--  Learning by doing, not just watching tutorials
 
 ---
 
