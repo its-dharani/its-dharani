@@ -4,9 +4,9 @@
 ---
 
 ###  What I do
--  **Web Development** — HTML, CSS, JavaScript
--  **UI & Visual Design** — Figma, Inkscape
--  **Python** — logic, basics, and real practice
+-  **Web Development** - HTML, CSS, JavaScript
+-  **UI & Visual Design** - Figma, Inkscape
+-  **Python** - logics and basics
 
 ---
 
@@ -27,16 +27,9 @@
 
 ###  Connect with me
 <p align="left">
-  <a href="https://github.com/its-dharani">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
-  </a>
   <a href="https://www.linkedin.com/in/dharani-m-5146b3328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"/>
   </a>
 </p>
 
----
 
-<p align="center">
-  <i>Not loud. Just locked in.</i>
-</p>
