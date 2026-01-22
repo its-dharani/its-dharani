@@ -12,7 +12,7 @@
 
 ###  Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,inkscape"/>
 </p>
 
 ---
