@@ -30,6 +30,10 @@
   <a href="https://www.linkedin.com/in/dharani-m-5146b3328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"/>
   </a>
+  <a href="https://www.instagram.com/wth.dharani?igsh=aTRidHRlYXdrMHgw">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  
 </p>
 
 
