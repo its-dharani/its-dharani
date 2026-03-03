@@ -24,9 +24,6 @@
 - Improving problem-solving with Python
 
 ---
-## 📄 Resume
-[View My Resume](https://github.com/its-dharani/dharani-resume)
----
 
 ###  Connect with me
 <p align="left">
@@ -39,4 +36,6 @@
   
 </p>
 
+---
+[View My Resume](https://github.com/its-dharani/dharani-resume)
 
